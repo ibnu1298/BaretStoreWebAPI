@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaretStoreWebAPI", "BaretStoreWebAPI\BaretStoreWebAPI.csproj", "{AD01E5D5-DE00-4932-8F83-0E7F86C54E8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaretStoreWebAPI.Models", "BaretStoreWebAPI.Models\BaretStoreWebAPI.Models.csproj", "{CB5D44A7-BF77-412E-9E13-331723CCCB1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD01E5D5-DE00-4932-8F83-0E7F86C54E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD01E5D5-DE00-4932-8F83-0E7F86C54E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD01E5D5-DE00-4932-8F83-0E7F86C54E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD01E5D5-DE00-4932-8F83-0E7F86C54E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB5D44A7-BF77-412E-9E13-331723CCCB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB5D44A7-BF77-412E-9E13-331723CCCB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB5D44A7-BF77-412E-9E13-331723CCCB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB5D44A7-BF77-412E-9E13-331723CCCB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5C73DAB-3B89-43A7-A16D-F78081FA167E}
+	EndGlobalSection
+EndGlobal

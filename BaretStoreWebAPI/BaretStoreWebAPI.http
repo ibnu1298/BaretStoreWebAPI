@@ -1,0 +1,6 @@
+@BaretStoreWebAPI_HostAddress = http://localhost:5117
+
+GET {{BaretStoreWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
